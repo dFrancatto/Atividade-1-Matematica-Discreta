@@ -1,0 +1,3 @@
+C:/Users/davif/OneDrive/Documentos/Fatec/Matemática Discreta/Atividade 1 Fim/cmake-build-debug/CMakeFiles/Atividade_1_Fim.dir
+C:/Users/davif/OneDrive/Documentos/Fatec/Matemática Discreta/Atividade 1 Fim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/davif/OneDrive/Documentos/Fatec/Matemática Discreta/Atividade 1 Fim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
